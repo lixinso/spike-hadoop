@@ -28,6 +28,8 @@
 
 ![HDFS Architecture](./hdfsarchitecture.png)
 
+![YARN Architecture](./yarn_architecture.gif)
+
 
 # References
 
