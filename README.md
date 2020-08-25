@@ -29,7 +29,8 @@
 ![HDFS Architecture](./hdfsarchitecture.png)
 
 ![YARN Architecture](./yarn_architecture.gif)
-![MapReduce Architecture](./)
+
+![MapReduce Architecture](./mapreduce_architecture.png)
 
 # References
 
