@@ -24,6 +24,11 @@
 
 - ZooKeeper
 
+# Architecture
+
+![HDFS Architecture](./hdfsarchitecture.png)
+
+
 # References
 
 - https://hadoop.apache.org/
